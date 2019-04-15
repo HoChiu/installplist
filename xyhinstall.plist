@@ -21,7 +21,7 @@
 <true/>
 <key>url</key>
 <!--icon地址（114*114)-->
-<string>https://pro-icon-qn.fir.im/66cc1e2c080bdb64742cd222c65471bc556ee717?e=1555301231&amp;token=LOvmia8oXF4xnLh0IdH05XMYpH6ENHNpARlmPc-T:gI5w9OLT_ADqCSNZzF-DsAA7aMk=</string>
+<string>http://hp5688.com/installapp/114.png</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -30,13 +30,13 @@
 <true/>
 <key>url</key>
 <!--icon地址（512*512）-->
-<string>https://pro-icon-qn.fir.im/66cc1e2c080bdb64742cd222c65471bc556ee717?e=1555301231&amp;token=LOvmia8oXF4xnLh0IdH05XMYpH6ENHNpARlmPc-T:gI5w9OLT_ADqCSNZzF-DsAA7aMk=</string>
+<string>http://hp5688.com/installapp/512.png</string>
 </dict>
 </array><key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
 <!--你的ipa的包名-->
-<string>com.muyecoin.XinYunHui</string>
+<string>com.block.Lottery</string>
 <key>bundle-version</key>
 <!--版本号-->
 <string>1.1</string>
@@ -44,10 +44,10 @@
 <string>software</string>
 <key>subtitle</key>
 <!--小标题-->
-<string>小标题</string>
+<string>环球娱乐</string>
 <key>title</key>
 <!--标题-->
-<string>标题</string>
+<string>环球娱乐</string>
 </dict>
 </dict>
 </array>
