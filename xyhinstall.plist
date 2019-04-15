@@ -12,7 +12,7 @@
 <string>software-package</string>
 <key>url</key>
 <!--https://你的域名.com/文件名.ipa-->
-<string>https://chzspace.oss-cn-shenzhen.aliyuncs.com/appspace/LotteryTicket.ipa?Expires=1555302461&OSSAccessKeyId=TMP.AQEBd3Rzw2EMYMeKstEolE6zYgC8oyfKpDYiqSbjQbbEG6pRL5vD7hD7Vzr7MC4CFQCphR-Fd2a0p4DStZXrx62cexErWwIVAOEacG0tmJws_ya-mRk9y9J07KCs&Signature=VaTne5dNeqajSEkVGt9lS6ymIVE%3D</string>
+<string>http://47.91.242.135/installapp/LotteryTicket.ipa</string>
 </dict>
 <dict>
 <key>kind</key>
